@@ -28,7 +28,7 @@ Applikasjonen består av en HTML-side som gir strukturen, en CSS-fil for styling
 - **Søkemotor**: Filtrerer karakterer basert på brukerens input i søkeboksen.
 
 ## Skjermbilde
-![Screenshot of Harry Potter Characters App](https://via.placeholder.com/600x400?text=Harry+Potter+Characters+App)
+![Screenshot of Harry Potter Characters App](https://preview.redd.it/skjermbilde-v0-mgqthouxcxqd1.png?width=1080&crop=smart&auto=webp&s=8db85ad211e1c7df5d1ab2d9f8b06a1c9bc9e56f)
 
 ## Lenker og Dokumentasjon
 - [Harry Potter API Dokumentasjon](https://hp-api.onrender.com/)
